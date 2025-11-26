@@ -1,0 +1,4 @@
+EXPORTS
+    DMLCreateDevice @1
+    DMLCreateDevice1 @2
+    DMLGetDebugInterface @3
